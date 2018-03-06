@@ -7,4 +7,4 @@ print('This is written on the PC.')
 
 print('PC won this round.')
 
-print('This only exists in tests branch.')
+print('This used to only exists in tests branch.')
